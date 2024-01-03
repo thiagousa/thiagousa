@@ -18,7 +18,7 @@ These areas form the cornerstone of my expertise, and I continually strive to en
 
 ## Contact Information
 
-You can reach me at [Your Email Address] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+You can reach me at [thiago@thiagodsantos.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/tsantosme).
 
 Feel free to explore my GitHub repositories for projects and code samples related to my areas of expertise.
 
