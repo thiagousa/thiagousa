@@ -1,6 +1,6 @@
 # Thiago Dos Santos
 
-![Welcome Banner](http://thiagodsantos.com/wp-content/uploads/2023/07/Thiago-Dos-Santos-1.jpeg)
+![Welcome Banner](https://thiagodsantos.com/wp-content/uploads/2023/07/Thiago-Dos-Santos-1.jpeg)
 
 **Hello and Welcome!**
 
