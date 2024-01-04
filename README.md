@@ -1,5 +1,3 @@
-# Professional Profile
-
 ## About Me
 
 I am a seasoned Brazilian-American Infrastructure Engineer with over 16+ years of extensive experience in information technology.
