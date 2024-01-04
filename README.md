@@ -25,7 +25,7 @@ Creating free, high-quality videos and resources for everyone is challenging. Yo
 
 Remember, ***support is optional***. Whether you choose to become a member or not, you'll have full access to all my videos and resources.
 
-Support here: [https://www.patreon.com/thiagodsantos](patreon.com/thiagodsantos) or [https://www.buymeacoffee.com/thiagodsantos](https://www.buymeacoffee.com/thiagodsantos)
+Support here: [https://www.patreon.com/thiagodsantos](https://www.patreon.com/thiagodsantos) or [https://www.buymeacoffee.com/thiagodsantos](https://www.buymeacoffee.com/thiagodsantos)
 
 <!--
 **thiagousa/thiagousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
