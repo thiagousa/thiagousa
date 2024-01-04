@@ -1,25 +1,31 @@
-## About Me
+# Thiago Dos Santos
 
-I am a seasoned Brazilian-American Infrastructure Engineer with over 16+ years of extensive experience in information technology.
+![Welcome Banner](http://thiagodsantos.com/wp-content/uploads/2023/07/Thiago-Dos-Santos-1.jpeg)
 
-My expertise has been acquired through a combination of formal education, having obtained a degree in Information Technology, and self-directed learning.
+**Hello and Welcome!**
 
-I am currently located in the Atlanta, GA area and am a DevOps Engineer, leveraging my expertise in Open Source technologies to drive technical initiatives and ensure seamless operations.
+**I am Thiago, a DevOps Engineer with extensive experience.**
 
-## Expertise
+On my [YouTube channel](https://www.youtube.com/@thiagodossantos4008), I share engaging videos, tutorials, and write-ups that simplify complex IT topics. I aim to provide practical and valuable insights for tech enthusiasts and those curious about the world of IT. My passion for IT and sharing knowledge is the driving force behind my content, which I hope inspires others to delve into and experiment with technology.
 
-With a proven track record in the industry, I am skilled in architecting, building, and implementing high-availability and load-balanced systems in on-premise environments and on the cloud.
+Visit my YouTube channel: [https://www.youtube.com/@thiagodossantos4008](https://www.youtube.com/@thiagodossantos4008)
 
-I possess a deep passion for the latest technology trends, including cloud computing, Kubernetes, automation, serverless architecture, DevOps, infrastructure-as-code, monitoring, and problem-solving.
+## Educational Content and Guides
 
-These areas form the cornerstone of my expertise, and I continually strive to enhance my knowledge in these areas to deliver cutting-edge solutions.
+I also offer written tutorials and documentation. These resources are great companions to my videos, offering example code snippets, templates, and other tools to enhance your learning.
 
-## Contact Information
+- [Boilerplates]() - Project templates for Docker, K8S, Ansible, etc.
+- [Cheat-Sheets]() - Command references for various tools and technologies
+- [Videos](https://www.youtube.com/@thiagodossantos4008) - Supporting documentation and files for my YouTube tutorials
+- [Homelab]() - Comprehensive documentation and configurations for my Homelab setup
 
-You can reach me at [thiago@thiagodsantos.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/tsantosme).
+## Support My Work
 
-Feel free to explore my GitHub repositories for projects and code samples related to my areas of expertise.
+Creating free, high-quality videos and resources for everyone is challenging. Your support enables me to invest more in content creation, enhancing overall quality. Becoming a member offers significant support and comes with cool perks as a token of appreciation.
 
+Remember, ***support is optional***. Whether you choose to become a member or not, you'll have full access to all my videos and resources.
+
+Support here: [https://www.patreon.com/thiagodsantos](patreon.com/thiagodsantos)
 
 <!--
 **thiagousa/thiagousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
