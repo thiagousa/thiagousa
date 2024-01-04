@@ -25,7 +25,7 @@ Creating free, high-quality videos and resources for everyone is challenging. Yo
 
 Remember, ***support is optional***. Whether you choose to become a member or not, you'll have full access to all my videos and resources.
 
-Support here: [https://www.patreon.com/thiagodsantos](patreon.com/thiagodsantos) or <path class="" d="M472.623 590.836C426.682 610.503 374.546 632.802 306.976 632.802C278.71 632.746 250.58 628.868 223.353 621.274L270.086 1101.08C271.74 1121.13 280.876 1139.83 295.679 1153.46C310.482 1167.09 329.87 1174.65 349.992 1174.65C349.992 1174.65 416.254 1178.09 438.365 1178.09C462.161 1178.09 533.516 1174.65 533.516 1174.65C553.636 1174.65 573.019 1167.08 587.819 1153.45C602.619 1139.82 611.752 1121.13 613.406 1101.08L663.459 570.876C641.091 563.237 618.516 558.161 593.068 558.161C549.054 558.144 513.591 573.303 472.623 590.836Z" fill="#FFDD00"></path>[https://www.buymeacoffee.com/thiagodsantos](https://www.buymeacoffee.com/thiagodsantos)
+Support here: [https://www.patreon.com/thiagodsantos](patreon.com/thiagodsantos) or [https://www.buymeacoffee.com/thiagodsantos](https://www.buymeacoffee.com/thiagodsantos)
 
 <!--
 **thiagousa/thiagousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
