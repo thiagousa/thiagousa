@@ -1,7 +1,5 @@
 # Thiago Dos Santos
 
-![Welcome Banner](https://github.com/thiagousa/thiagousa/blob/main/devopsthiago.jpeg)
-
 **Hello and Welcome!**
 
 **I'm Thiago, a DevOps Engineer with extensive experience.**
