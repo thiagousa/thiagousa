@@ -1,6 +1,6 @@
 # Thiago Dos Santos
 
-![Welcome Banner](devposthiago.jpeg)
+![Welcome Banner](https://github.com/thiagousa/thiagousa/blob/main/devopsthiago.jpeg)
 
 **Hello and Welcome!**
 
