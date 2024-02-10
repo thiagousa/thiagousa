@@ -4,9 +4,9 @@
 
 **I'm Thiago, a DevOps Engineer with extensive experience.**
 
-On my [YouTube channel](https://www.youtube.com/@thiagodossantos4008), I share engaging videos, tutorials, and write-ups that simplify complex IT topics. I aim to provide practical and valuable insights for tech enthusiasts and those curious about the world of IT. My passion for IT and sharing knowledge is the driving force behind my content, which I hope inspires others to delve into and experiment with technology.
+On my [YouTube channel](https://www.youtube.com/@devopsthiago), I share engaging videos, tutorials, and write-ups that simplify complex IT topics. I aim to provide practical and valuable insights for tech enthusiasts and those curious about the world of IT. My passion for IT and sharing knowledge is the driving force behind my content, which I hope inspires others to delve into and experiment with technology.
 
-Visit my YouTube channel: [https://www.youtube.com/@thiagodossantos4008](https://www.youtube.com/@thiagodossantos4008)
+Visit my YouTube channel: [https://www.youtube.com/@devopsthiago](https://www.youtube.com/@devopsthiago)
 
 ## Educational Content and Guides
 
@@ -14,7 +14,7 @@ I also offer written tutorials and documentation. These resources are great comp
 
 - [Boilerplates]() - Project templates for Docker, K8S, Ansible, etc.
 - [Cheat-Sheets]() - Command references for various tools and technologies
-- [Videos](https://www.youtube.com/@thiagodossantos4008) - Supporting documentation and files for my YouTube tutorials
+- [Videos](https://www.youtube.com/@devopsthiago) - Supporting documentation and files for my YouTube tutorials
 - [Homelab]() - Comprehensive documentation and configurations for my Homelab setup
 
 ## Support My Work
